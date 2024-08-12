@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_task_done"
+        android:title="Task Has Done"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_task_history"
+        android:title="Task History"
+        app:showAsAction="never" />
+</menu>
